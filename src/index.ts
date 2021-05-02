@@ -102,7 +102,7 @@ const InsertAllUsers = (isAdmin, list) => {
 
             //user insert
             const userSQL =
-              "INSERT INTO user (username, password, email, salt, is_admin, fk_name, fk_address) VALUES (?, Password(?), ?, ?, ?, ?, ?)";
+              "INSERT INTO user (username, password, email, salt, is_admin, fk_name, fk_address) VALUES (?, SHA1(?), ?, ?, ?, ?, ?)";
             sql.query(
               userSQL,
               [
