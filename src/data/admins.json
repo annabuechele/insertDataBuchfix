@@ -1,0 +1,38 @@
+[
+    {
+        "username":"patrickcerny",
+        "email": "cerny@athenic.at",
+        "password":"Dönermann123",
+        "name":
+        {
+            "firstName": "Patrick",
+            "lastName": "Cerny"
+        },
+        "location": {
+            "street": "Seeschanze",
+            "number": "1",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username":"annabüchele",
+        "email": "anna.buechele@hak-bregenz.at",
+        "password":"Dönerfrau123",
+        "name":
+        {
+            "firstName": "Anna",
+            "lastName": "Büchele"
+        },
+        "location": {
+            "street": "Marktstraße",
+            "number": "26",
+            "zipCode": "6971",
+            "city": "Hard",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    }
+]

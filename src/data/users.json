@@ -1,0 +1,479 @@
+[
+    {
+        "username": "tyrongabriel",
+        "email": "tyron.gabriel@hak-bregenz.at",
+        "password": "tyrongabriel",
+        "name": {
+            "firstName": "Tyron",
+            "lastName": "Gabriel"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "leongraber",
+        "email": "leon.graber@hak-bregenz.at",
+        "password": "leongraber",
+        "name": {
+            "firstName": "Leon",
+            "lastName": "Graber"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "florianfeuerstein",
+        "email": "florian.feuerstein@hak-bregenz.at",
+        "password": "florianfeuerstein",
+        "name": {
+            "firstName": "Florian",
+            "lastName": "Feuerstein"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "matthiaswolf",
+        "email": "matthias.wolf@hak-bregenz.at",
+        "password": "matthiaswolf",
+        "name": {
+            "firstName": "Matthias",
+            "lastName": "Wolf"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "marvinheine",
+        "email": "marvin.heine@hak-bregenz.at",
+        "password": "marvinheine",
+        "name": {
+            "firstName": "Marvin",
+            "lastName": "Heine"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "leonhardohneberg",
+        "email": "leonhard.ohneberg@hak-bregenz.at",
+        "password": "leonhardohneberg",
+        "name": {
+            "firstName": "Leonhard",
+            "lastName": "Ohneberg"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "katharinabohle",
+        "email": "katharina.bohle@hak-bregenz.at",
+        "password": "katharinabohle",
+        "name": {
+            "firstName": "Katharina",
+            "lastName": "Bohle"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "amyhorner",
+        "email": "amy.horner@hak-bregenz.at",
+        "password": "amyhorner",
+        "name": {
+            "firstName": "Amy",
+            "lastName": "Horner"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "lucanicolussi",
+        "email": "luca.nicolussi@hak-bregenz.at",
+        "password": "lucanicolussi",
+        "name": {
+            "firstName": "Luca",
+            "lastName": "Nicolussi"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "jeffgrud",
+        "email": "jeff.grud@hak-bregenz.at",
+        "password": "jeffgrud",
+        "name": {
+            "firstName": "Jeff",
+            "lastName": "Grud"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "jonaslimpl",
+        "email": "jonas.limpl@hak-bregenz.at",
+        "password": "jonaslimpl",
+        "name": {
+            "firstName": "Jonas",
+            "lastName": "Limpl"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "vanessakammerlander",
+        "email": "vanessa.kammerlander@hak-bregenz.at",
+        "password": "vanessakammerlander",
+        "name": {
+            "firstName": "Vanessa",
+            "lastName": "Kammerlander"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "wenwenlin",
+        "email": "wen.lin@hak-bregenz.at",
+        "password": "wenwenlin",
+        "name": {
+            "firstName": "Wen Wen",
+            "lastName": "Lin"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "jonasmayrhofer",
+        "email": "jonas.mayrhofer@hak-bregenz.at",
+        "password": "jonasmayrhofer",
+        "name": {
+            "firstName": "Jonas",
+            "lastName": "Mayrhofer"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "simonostini",
+        "email": "simon.ostini@hak-bregenz.at",
+        "password": "simonostini",
+        "name": {
+            "firstName": "Simon",
+            "lastName": "Ostini"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "timonstadelmann",
+        "email": "timon.stadelmann@hak-bregenz.at",
+        "password": "timonstadelmann",
+        "name": {
+            "firstName": "Timon",
+            "lastName": "Stadelmann"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "ronjakramer",
+        "email": "ronja.kramer@hak-bregenz.at",
+        "password": "ronjakramer",
+        "name": {
+            "firstName": "Ronja",
+            "lastName": "Kramer"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "katharinafeichtinger",
+        "email": "katharina.feuchtinger@hak-bregenz.at",
+        "password": "katharinafeichtinger",
+        "name": {
+            "firstName": "Katharina",
+            "lastName": "Feichtinger"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "raphaelposch",
+        "email": "raphael.posch@hak-bregenz.at",
+        "password": "raphaelposch",
+        "name": {
+            "firstName": "Raphael",
+            "lastName": "Posch"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "beyzaisikli",
+        "email": "beyza.isikli@hak-bregenz.at",
+        "password": "beyzaisikli",
+        "name": {
+            "firstName": "Raphael",
+            "lastName": "Posch"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "sandrorothmund",
+        "email": "sandro.rothmund@hak-bregenz.at",
+        "password": "sandrorothmund",
+        "name": {
+            "firstName": "Sandro",
+            "lastName": "Rothmund"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "paulprenn",
+        "email": "paul.prenn@hak-bregenz.at",
+        "password": "paulprenn",
+        "name": {
+            "firstName": "Paul",
+            "lastName": "Prenn"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "tabeagschliesser",
+        "email": "tabea.gschliesser@hak-bregenz.at",
+        "password": "tabeagschliesser",
+        "name": {
+            "firstName": "Tabea",
+            "lastName": "Gschliesser"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "raphaelreichart",
+        "email": "raphael.reichart@hak-bregenz.at",
+        "password": "raphaelreichart",
+        "name": {
+            "firstName": "Raphael",
+            "lastName": "Reichart"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "gabrielinan",
+        "email": "gabriel.inan@hak-bregenz.at",
+        "password": "gabrielinan",
+        "name": {
+            "firstName": "Gabriel",
+            "lastName": "Inan"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "leonnatter",
+        "email": "leon.natter@hak-bregenz.at",
+        "password": "leonnatter",
+        "name": {
+            "firstName": "Leon",
+            "lastName": "Natter"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "alessandropetrovic",
+        "email": "alessandro.petrovic@hak-bregenz.at",
+        "password": "alessandropetrovic",
+        "name": {
+            "firstName": "Alessandro",
+            "lastName": "Petrovic"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    },
+    {
+        "username": "anikadibowski",
+        "email": "anika.dibowski@hak-bregenz.at",
+        "password": "anikadibowski",
+        "name": {
+            "firstName": "Anika",
+            "lastName": "Dibowski"
+        },
+        "location": {
+            "street": "Hinterfeldgasse",
+            "number": "19",
+            "zipCode": "6900",
+            "city": "Bregenz",
+            "state": "Vorarlberg",
+            "country": "Österreich"
+        }
+    }
+    
+]
