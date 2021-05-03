@@ -25,12 +25,16 @@ type BookType = {} | null;
 const admins: Array<UserType> = require("./data/admins.json");
 const users: Array<UserType> = require("./data/users.json");
 const books: Array<BookType> = require("./data/books.json");
+const genres: Array<any> = require("./data/genres.json");
+const formats: Array<any> = require("./data/formats.json");
 
 const sql = require("./helpers/sql_connector");
 
 console.log(admins.length, "Admin-Users read from File");
 console.log(books.length, "Books read from File");
 console.log(users.length, "Users read from File");
+console.log(formats.length, "Formats read from File");
+console.log(genres.length, "Genres read from File");
 
 const DropAll = async () => {
   await sql.query("SET FOREIGN_KEY_CHECKS = 0 ", () => {});
@@ -135,12 +139,40 @@ const InsertAllUsers = (isAdmin, list) => {
   });
 };
 
+const InsertGenres = () => {
+  genres.forEach(async (genre, i) => {
+    await sql.query(
+      "INSERT INTO genre (name) VALUES (?)",
+      [genre.genre],
+      () => {
+        console.log(i + 1 + ".", "Genre inserted:", genre.genre);
+      }
+    );
+  });
+};
+
+const InsertFormats = () => {
+  formats.forEach(async (format, i) => {
+    await sql.query(
+      "INSERT INTO format (name) VALUES (?)",
+      [format.format],
+      () => {
+        console.log(i + 1 + ".", "Format inserted:", format.format);
+      }
+    );
+  });
+};
+
 const Insert = async () => {
   await DropAll();
 
   await InsertAllUsers(1, admins);
 
   await InsertAllUsers(0, users);
+
+  await InsertGenres();
+
+  await InsertFormats();
 };
 
 Insert();
