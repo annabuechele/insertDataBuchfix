@@ -142,7 +142,7 @@ const InsertAllUsers = (isAdmin, list) => {
 const InsertGenres = () => {
   genres.forEach(async (genre, i) => {
     await sql.query(
-      "INSERT INTO genre (name) VALUES (?)",
+      "INSERT INTO genre (genre_name) VALUES (?)",
       [genre.genre],
       () => {
         console.log(i + 1 + ".", "Genre inserted:", genre.genre);
@@ -154,7 +154,7 @@ const InsertGenres = () => {
 const InsertFormats = () => {
   formats.forEach(async (format, i) => {
     await sql.query(
-      "INSERT INTO format (name) VALUES (?)",
+      "INSERT INTO format (format_name) VALUES (?)",
       [format.format],
       () => {
         console.log(i + 1 + ".", "Format inserted:", format.format);
